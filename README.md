@@ -9,7 +9,6 @@ A full-stack community platform where developers sign up, publish posts, comment
 
 ## Screenshots
 
-(add 2-3 images here)
 
 ## Features
 
